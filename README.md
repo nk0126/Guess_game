@@ -26,10 +26,14 @@ If you run out of attempts without guessing correctly, the game will reveal the 
 !! Welcome to Guess Game !!
 ****************************************
 choose your game difficulty level (low, hard) :- low
+
 guess a number from 1 to 100 (Okey Great you have 10 attempts left ) :- 50
+
 It's Too high !!
+
 guess a number from 1 to 100 (Okey Great you have 9 attempts left ) :- 25
 It's Too low
+
 guess a number from 1 to 100 (Okey Great you have 8 attempts left ) :- 37
 Hurry!! you guess a correct number is 37
 
